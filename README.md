@@ -1,7 +1,6 @@
 
    <div align="center">
-   <h1>### Hi there. I'm Sam.<br></h1> <br>
-   <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+   <h1>### Hi there. I'm Sam.</h1> <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br>
    <p>It's a pleasure to meet you all and have a pleasant stay here👋</p>
 
 <br>
