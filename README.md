@@ -2,7 +2,7 @@
    <div align="center">
     <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
    <h1>### Hi there. I'm Sam.</h1> <br>
-   <a href="[https://samori.tistory.com/]">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a><br>
+   <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
    <p>It's a pleasure to meet you all and have a pleasant stay here👋</p>
 
 <br>
