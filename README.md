@@ -1,9 +1,8 @@
 
    <div align="center">
     <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-   <h1>### Hi there. I'm Sam. <br>
-      I majored in International Logistics from CAU but now studying programming. Odd isn't it? <br>
-      Hope I can be a Full-Stack developer someday. Oh and by the wway, this is my blog :) <a href="[https://samori.tistory.com/]">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a></h1> <br>
+   <h1>### Hi there. I'm Sam.</h1> <br>
+   <a href="[https://samori.tistory.com/]">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a><br>
    <p>It's a pleasure to meet you all and have a pleasant stay here👋</p>
 
 <br>
