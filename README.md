@@ -1,8 +1,8 @@
 
    <div align="center">
     <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-   <h1>### Hi there. I'm Kwangmin Oh but you can call me Sam.</h1> <br>
-   <h2>It's a pleasure to meet you all and hope you guys have a pleasant stay here👋</h2>
+   <h1>### Hi there. I'm Sam and I majored in international logistics in CAU</h1> <br>
+   <p>It's a pleasure to meet you all and hope you guys have a pleasant stay here👋</p>
 
 <br><a href="[https://samori.tistory.com/]">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a>
 
