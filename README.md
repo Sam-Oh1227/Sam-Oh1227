@@ -1,26 +1,18 @@
 
    <div align="center">
-    <img src="https://img.shields.io/badge/cmong0516@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-   <h1>### Hi there. I'm Kwangmin but you can call me Sam. 
-It's a pleasure to meet you all and hope you have a pleasant stay here👋</h1>
-</div>
-<div align=right>
-
+    <img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+   <h1>### Hi there. I'm Kwangmin Oh but you can call me Sam. <br>
+   It's a pleasure to meet you all and hope you guys have a pleasant stay here👋</h1>
 
 <br><a href="[https://samori.tistory.com/]">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a>
-
-</div>
-
 
 
 ### :pushpin: Skill
 
-  <div align = left>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
  
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
@@ -39,8 +31,6 @@ It's a pleasure to meet you all and hope you have a pleasant stay here👋</h1>
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-</div>
-<div align = left> 
  
 ### :pushpin: Stats
  
