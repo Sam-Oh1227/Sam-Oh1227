@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sam Oh&fontSize=90&animation=fadeIn&fontAlignY=30&desc=backend%20developer's%20study%20records&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SamOh&fontSize=90&animation=fadeIn&fontAlignY=30&desc=backend%20developer's%20study%20records&descAlignY=51&descAlign=62)
    <div align="center">
    <h1>### Hi there. I'm Sam.<br><img src="https://img.shields.io/badge/sam79083@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></h1> <br>
    <p>It's a pleasure to meet you all and have a pleasant stay here👋</p>
